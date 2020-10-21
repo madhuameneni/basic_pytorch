@@ -2,3 +2,5 @@
 The objective of this project is to create a model which process the provided vector data using NN and to evaluate performance on subset of training and test data using PyTorch library.
 Checking the performance of the NN based on diffrent activation and optimzers with conclusion.
 Competencies: Python, Machine learning, PyTorch, Anaconda, Jupyter.
+
+Note : LAB 3 is the reference for the Basic Pytorch in the above pdf "Basic_pytorch".
